@@ -1,2 +1,12 @@
 # Mamaearth-repo
-https://camo.githubusercontent.com/5f0e9607bef955b12d4d07708045d095c5c6101254774ac3cd4e4604a98c9a94/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f312a7058434a3158343448424731435551432d5a702d4c672e706e67
+Mamaearth is known for introducing toxic-free skincare routines to its customers. This cloned website of Mamaearth includes some of the f
+ Functionalities -
+ Users can sign up and log in (google OAuth as well)
+Choose the product and add it to a bag from different categories
+Products can be sorted
+Payment gateway
+Placing an Order after successful payment
+Sign up and Login page
+product pages with all the features included such as sorting filtering and add-to-cart
+Footer, payments page, cart page, and many more.
+Thank you we’ll be back with another project next time(😉)
